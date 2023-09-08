@@ -1,5 +1,5 @@
 package = "tablua"
-version = "1.0-1"
+version = "1.0-2"
 source = {
    url = "git+https://github.com/luiz734/tablua.git"
 }
